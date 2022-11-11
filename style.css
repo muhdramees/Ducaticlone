@@ -1,0 +1,199 @@
+*{
+    box-sizing: border-box;
+}
+    .image1{
+       
+        width: 100%;
+        height: 100%;
+        max-height: 775px;
+        object-fit: fill;
+}
+.imgwr{
+    color: #fff;
+    display: inline;
+    
+}
+.topleft{
+    position: absolute;
+    top: 5px;
+    padding: 15px;
+    left: 115px;
+    
+}
+#quotes{
+    color: #fafafa;
+    font-family: 'ducati-condensed', Arial, sans-serif;
+    text-transform: uppercase;
+    font-size: 12px;
+    letter-spacing: 1px;
+    font-weight: bold;
+    display: inline;
+    padding: 15px;
+    border: none;
+}
+
+
+.navbarfull{
+    top: 30px;
+    width: 95%;
+   
+    margin: 40px;
+            
+   
+   }
+.logonav{
+    height: 75px;
+}
+.collapse{
+    font-family: 'ducati-condensed', Arial, sans-serif;
+    font-weight: 400;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    font-size: 14px;
+}
+.btn{
+    position:absolute;
+    top: 35rem;
+    right: 90px;
+}
+.sidebyside {
+    display: grid;
+    padding: 2rem;
+    grid-template-columns: 300px 1fr;
+    gap: 1rem;
+    align-items: center;
+    max-width: 800px;
+    margin: 0 auto;
+    font: 500 100%/1.5 system-ui;
+    float: left;
+    
+  }
+  .image2 {
+    max-width: 50%;
+    height: auto;
+    margin: 0;
+   
+
+  }
+  .desp{
+    font-family: 'ducati-condensed', Arial, sans-serif;
+    font-weight: 400;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: #666;
+    font-size: 14px;
+    text-transform: uppercase;
+    margin: 0 0 13px 0;
+  }
+  .card-title{
+    font-family: 'ducati-extended', Arial, sans-serif;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 1.4;
+    margin: 0 0 11px 0;
+  }
+  .despd{
+    font-size: 18px;
+    line-height: 1.5;
+    margin: 0 0 15px 0;
+  }
+  .pbtn{
+    font-family: 'ducati-condensed', Arial, sans-serif;
+    font-weight: 400;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    font-size: 14px;
+    color: #c00;
+    text-transform: uppercase;
+    text-decoration: none;
+    display: -webkit-inline-box;
+    display: -ms-inline-flexbox;
+    display: inline-flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+  }
+  .card1{
+    padding: 35px;
+  }
+  .bgpic2{
+    width: 100%;
+        height: 100%;
+        max-height: 713px;
+        object-fit: cover;
+        padding: 35px;
+  }
+  .text2{
+    position: absolute;
+    color: #fff;
+    padding: 104px;
+    top: 80px;
+    left: 37px;
+
+
+}
+.title{
+    position: absolute;
+    font-size: 30px;
+    top: 18px;
+}
+.side{
+    padding: 10%;
+}
+.container my-5{
+    color: #666;
+}
+.footerimg{
+    text-align: center;
+   
+}
+.container my-51{
+    width: 100%;
+    margin: 0;
+    padding: 0;
+
+
+}
+.footer{
+
+    background-color: black;
+    width: 100%;
+    height: 100%;
+    color: #666;
+
+}
+.ftimage{
+    width: 50%;
+    align-items: center;
+    
+}
+img-fluid{
+    padding: 395px;
+}
+.f1{
+    margin-inline-start: 80px;
+    width: 110px;
+    height: 130px;
+    padding-top: 92px;
+}
+.ff{
+    width: 30px;
+    height: 30px;
+    color: #666;
+}
+.icons{
+    display: inline;
+}
+.card mb-3{
+    width: 100%;
+
+}
+.top-container{
+    margin: 0;
+}
+.row1 {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+}
